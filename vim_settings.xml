@@ -1,0 +1,36 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1501396773583">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/smart-book-code/chapter1/chapter1.iml" timestamp="1501317201949" />
+      <file name="$USER_HOME$/Downloads/smart-book-code/chapter1/src/main/java/org/smart4j/chapter1/HelloServlet.java" timestamp="1501317243308" />
+      <file name="$USER_HOME$/workspace/smart-book-code/chapter2/src/test/resources/sql/create_customer.sql" timestamp="1501390731939">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/smart-book-code/chapter2/src/main/java/org/smart4j/chapter2/controller/CustomerShowServlet.java" timestamp="1501325105166" />
+      <file name="/fragment.java" timestamp="1501391853947">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
