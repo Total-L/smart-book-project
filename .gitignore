@@ -1,5 +1,6 @@
-# maven #
+# Maven #
 target/
+
 # IDEA #
 .idea/
 *.iml
@@ -11,3 +12,5 @@ target/
 .project
 Servers/
 
+# Mac #
+.DS_Store
